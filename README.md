@@ -35,6 +35,6 @@ You can find the codes in the notebook. Before starting the cleaning and analysi
 -  Stadsdeel (District name)
 - 	Price_per_sqm
 
-for each house entry. After this, I implied the cleaning methods e.g. removing na, and then started the EDA analysis of the data which you can find the report in this file.
+for each house entry. After this, I implied the cleaning methods e.g. removing na, and then started the statistical analysis of the data which you can find the report in [Report_Amsterdam_real_estate_statistical_analysis.md](Report_Amsterdam_real_estate_statistical_analysis.md).
 
 
