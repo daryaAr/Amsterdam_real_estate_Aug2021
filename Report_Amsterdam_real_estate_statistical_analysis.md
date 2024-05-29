@@ -37,7 +37,7 @@ After visualizing the histograms, it was time to handle the outliers. To do so, 
 Then I got more visualizations based on districts. For example the scatter plot on Amsterdam's map, gives a good insight about the distribution of houses and their price.
 </p>
 
-![Scatter map](https://github.com/daryaAr/Amsterdam_real_estate_Aug2021/blob/main/plots/scatter_map%20(1).png?raw=true)
+![Scatter map](https://github.com/daryaAr/Amsterdam_real_estate_Aug2021/blob/main/plots/scatter_map.png?raw=true)
 
 </p>
 
