@@ -30,7 +30,7 @@ These histograms provide a comprehensive overview of the data, illustrating the 
 After visualizing the histograms, it was time to handle the outliers. To do so, I used the data from column **"Price_per_sqm"**, instead of just **"Price"**, since it provides a more standardized way to detect anomalies. I used the 1.5*IQR method for finding the outliers. Below you can see the comparison of the box plot of price/sqm before and after removing the outliers.
 </p>
 
-![Comparison of box plots of price/sqm](https://github.com/daryaAr/Amsterdam_real_estate_Aug2021/blob/main/plots/comp_outlier_ratio%20(1).png?raw=true)
+![Comparison of box plots of price/sqm](https://github.com/daryaAr/Amsterdam_real_estate_Aug2021/blob/main/plots/comp_outlier_ratio.png?raw=true)
 
 </p>
 
